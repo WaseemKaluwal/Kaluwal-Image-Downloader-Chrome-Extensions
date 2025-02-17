@@ -13,7 +13,7 @@ Kaluwal Image Downloader is a simple and efficient Chrome extension that allows 
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/yourusername/Kaluwal-Image-Downloader-Chrome-Extension.git
+   https://github.com/WaseemKaluwal/Kaluwal-Image-Downloader-Chrome-Extensions.git
    ```
 2. Open Chrome and go to `chrome://extensions/`.
 3. Enable **Developer mode** in the top right corner.
