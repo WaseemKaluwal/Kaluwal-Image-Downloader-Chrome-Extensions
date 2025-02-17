@@ -37,6 +37,10 @@ If you'd like to contribute to Kaluwal Image Downloader, feel free to fork the r
 4. Push to your branch (`git push origin feature-name`).
 5. Open a pull request.
 
+ ## Screenshot
+
+ ![Kaluwal Image Downloader Chrome Extension](https://github.com/user-attachments/assets/e96b183d-4e79-4a29-a473-b3828f812d19)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
